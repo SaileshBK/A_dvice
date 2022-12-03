@@ -1,0 +1,12 @@
+{
+    "name" : "_A_D_V_I_C_E_",
+    "version" : "1.0.0",
+    "description" : "A simple advice generator",
+    "manifest_version" : 3,
+    "author" : "Sailesh B K",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_title" : "_A_D_V_I_C_E_"
+    }
+    
+}
