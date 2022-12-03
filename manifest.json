@@ -7,6 +7,8 @@
     "action" : {
         "default_popup" : "index.html",
         "default_title" : "_A_D_V_I_C_E_"
-    }
-    
+    },
+    "content_security_policy": {
+        "extension_pages": "default-src 'self'; connect-src https://api.adviceslip.com/advice;"
+     }    
 }
