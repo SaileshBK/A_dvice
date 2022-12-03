@@ -1,4 +1,4 @@
-# A_dvice
+# _A_D_V_I_C_E_
 A free advice chrome extension.
 # [Advice Slip JSON API](https://api.adviceslip.com/)
 The Advice Slip JSON API is provided for free. 😎 
